@@ -1,0 +1,26 @@
+{
+  "name": "CAPS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faker": "^5.5.3",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghadmustafa96/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghadmustafa96/CAPS/issues"
+  },
+  "homepage": "https://github.com/Raghadmustafa96/CAPS#readme"
+}
